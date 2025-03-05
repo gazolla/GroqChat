@@ -83,7 +83,7 @@ fun main() {
 
 
 suspend fun sendMessageToGroq(message: String): String {
-    val apiKey = System.getenv("GROQ_API_KEY") ?: "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"
+    val apiKey = System.getenv("GROQ_API_KEY") ?: "your key here"
     return try {
         GroqClientFactory.createClient(apiKey).use { client ->
             val response = client.chatText(
