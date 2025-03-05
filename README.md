@@ -2,7 +2,9 @@
 
 A simple web-based chat interface for the Groq API built with Kotlin, Ktor, and HTMX.
 
-![GroqChat Screenshot](https://via.placeholder.com/800x450.png?text=GroqChat+Screenshot)
+<div style="text-align: center;">
+<img src="groqchat.gif" width="250" height="350" alt="Descrição do GIF">
+</div> 
 
 ## Features
 
