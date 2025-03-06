@@ -87,7 +87,7 @@ src/
 - [Thymeleaf](https://www.thymeleaf.org/) - Modern server-side Java template engine
 - [HTMX](https://htmx.org/) - High power tools for HTML
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Groq API Kotlin Client](https://github.com/gazolla/groq-api-kotlin) - Kotlin client for the Groq API
+- [Groq API Kotlin Client](https://github.com/gazolla/GroqClientApiKotlin) - Kotlin client for the Groq API
 
 ## Customization
 
